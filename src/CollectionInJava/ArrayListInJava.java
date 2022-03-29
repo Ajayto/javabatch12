@@ -48,7 +48,11 @@ public class ArrayListInJava {
 	   
 		
 		
-		
+		 ArrayList al3= new ArrayList();
+			al3.add("Tom");
+			al3.add("C#");
+			al3.add(75.75);
+			
 		
 		
 		
