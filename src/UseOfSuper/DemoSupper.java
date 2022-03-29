@@ -32,3 +32,6 @@ class C extends B{
 		System.out.println("C class 0 args constructor");
 	}
 }
+class D extands C{
+System.out.println("this is to test git local")
+}
