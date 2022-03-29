@@ -19,10 +19,10 @@ class B extends A{
 	B(){
 		super();
 		System.out.println("B class 0 args constructor");
-		
+
 	}
 	B(int a){
-		
+
 		System.out.println("B class 1 args constructor");
 	}
 }
@@ -32,6 +32,8 @@ class C extends B{
 		System.out.println("C class 0 args constructor");
 	}
 }
-class D extands C{
-System.out.println("this is to test git local")
+class D extends C{
+	void m() {
+		System.out.println("test git");
+	}
 }
