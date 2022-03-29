@@ -19,6 +19,9 @@ public class DemoClass {
 		 static void m3(){
 			 System.out.println("M1");
 		 }
+		 static void m4(){
+			 System.out.println("M4");
+		 }
 	 }
  }
 
