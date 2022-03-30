@@ -49,7 +49,7 @@ class C extends A{
 	
 	class D extends A{
 		int c=40;
-		void print() {
-			System.out.println("this is print method of class D");
+		void showData() {
+			System.out.println("this is print method of class D	");
 		}
 }
