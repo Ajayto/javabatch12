@@ -12,6 +12,7 @@ public class StringDemo {
 		System.out.println(s);
 		System.out.println(s.trim());
 		
+		String s3="created string for git demo";		
 		
 		
 		
@@ -22,21 +23,6 @@ public class StringDemo {
 		
 		
 		
-		//==//object
-		//System.out.println();
-//		System.out.println(s);
-//		System.out.println(s.charAt(6));
-//		System.out.println(s.substring(5));
-//		System.out.println(s.substring(5, 14));
-		//System.out.println(s.contains(s1));
-		//System.out.println(s.equalsIgnoreCase(s3));
-//		System.out.println(s1.isEmpty());
-//		String s4=s.concat(s1);
-//		System.out.println(s4);
-//		System.out.println(s.replace("java", "C#"));
-//		String straArr[]=s.split("#");
-//		for(int i=0;i<straArr.length;i++) {
-//			System.out.println(straArr[i]);
 //		}
 //		
 
