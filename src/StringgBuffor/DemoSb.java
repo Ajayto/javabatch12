@@ -13,21 +13,8 @@ public class DemoSb {
 		String s2= new String(sb);
 		System.out.println(s2);
 		
-		
-		
-		
-		
-		
-		
-//		String s="string object";
-//		s.concat("in java");
-//		System.out.println(s);
-//		
-//		StringBuffer sb=new StringBuffer("this is java program");
-//		//System.out.println(sb);
-//		sb.append(" for String buffer");
-//		System.out.println(sb);
-		
+		StringBuffer sb1=new StringBuffer("string buffer for git demo");
+	
 
 	}
 
