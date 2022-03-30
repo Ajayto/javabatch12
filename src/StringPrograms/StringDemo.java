@@ -12,7 +12,7 @@ public class StringDemo {
 		System.out.println(s);
 		System.out.println(s.trim());
 		
-		String s3="created string for git demo";		
+		String s4="created string for git demo updated this file from local";		
 		
 		
 		
